@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.repository-item-container {
+  display: flex;
+  font-family: Roboto;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 15px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #f8f8ff;
+}
+.repo-icon {
+  height: 150px;
+  margin: 10px;
+}
+.repository-heading {
+  color: #e73959;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.mini-icons {
+  display: flex;
+  margin: 5px;
+}
+.mini {
+  height: 20px;
+  margin-right: 10px;
+}
